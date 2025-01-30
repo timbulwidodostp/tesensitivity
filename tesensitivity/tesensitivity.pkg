@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'tesensitivity': Sensitivity analysis for treatment effect models based on unconfoundedness Use tesensitivity With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _tesen_cpi.ado
+f _tesen_cscale.ado
+f _tesen_display.ado
+f _tesen_estat.ado
+f _tesen_plot.ado
+f tesensitivity.ado
+f tesensitivity.sthlp
+f tesensitivity_cpi.sthlp
+f tesensitivity_cpiplot.sthlp
+f tesensitivity_cpitable.sthlp
+f tesensitivity_cscale.sthlp
